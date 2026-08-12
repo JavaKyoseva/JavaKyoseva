@@ -1,15 +1,15 @@
 <div align="center">
 
-  <!-- Animasyonlu SVG Tipografi Başlık -->
+  <!-- SVG Tipografi Başlık -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&lines=Yusuf+K%C3%B6se+%7C+JavaKyoseva;Backend+Developer+%26+Security+Scripter;Telegram+API+%26+Automation+Tools" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=Yusuf+K%C3%B6se+%7C+JavaKyoseva;Cybersecurity+Research+%26+Software+Engineering;Backend+Systems%2C+Network+Protocols+%26+Automation" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <b>Backend Sistemleri, Telegram API Entegrasyonları, Otomasyon Betikleri ve Güvenlik Araçları Üzerine Odaklı Yazılım Geliştirici</b>
+    <b>Siber Güvenlik Araştırmaları, Backend Sistem Mimarileri ve Ağ Protokolü Otomasyonları</b>
   </p>
 
-  <!-- Rozetler -->
+  <!-- Profesyonel Bağlantı Rozetleri -->
   <p align="center">
     <a href="https://jkyoseva.dpdns.org">
       <img src="https://img.shields.io/badge/Portfolio-jkyoseva.dpdns.org-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=black" />
@@ -26,70 +26,79 @@
 
 ---
 
-## 📌 Hakkımda & Mühendislik Yaklaşımı
+## 📌 Profil ve Mühendislik Vizyonu
 
-Ağ protokolleri, Telegram Bot API mimarileri, sistem seviyesinde uzaktan yönetim betikleri ve özel e-posta yönlendirme çözümleri üzerinde çalışıyorum. Projelerimde performans, hafiflik (lightweight execution) ve yüksek sistem entegrasyonu temel önceliğimdir.
+Ağ sistemleri, siber güvenlik farkındalık araçları, Telegram API entegrasyonlu Komut ve Kontrol (C2) mimarileri, sunucusuz (Serverless Edge) e-posta işleme altyapıları ve mobil cihazlarda kabuk (Shell) seviyesinde otomasyonlar üzerinde çalışıyorum.
 
-> **Mühendislik Vizyonu:** Telegram API ve HTTP protokollerini kaldıraç olarak kullanarak, sunucu veya istemci tarafındaki karmaşık süreçleri otomatikleştiren güvenli ve modüler araçlar inşa etmek.
+Geliştirdiğim projelerde **temiz kod prensipleri**, **düşük sistem kaynağı kullanımı (low resource footprint)**, **ağ trafiği optimizasyonu** ve **güvenlik test/farkındalık metodolojileri** temel odak noktalarımdır.
 
 ---
 
-## 🛠️ Teknik Yetkinlik Matrisi
+## 🛠️ Kapsamlı Teknik Yetkinlik Matrisi
 
 <div align="center">
 
-| Alan | Teknolojiler & Araçlar |
+| Kategori | Teknolojiler & Protokoller |
 | :--- | :--- |
-| **Programlama Dilleri** | `JavaScript (ES6+)`, `Python`, `Node.js`, `Bash / Shell Scripting` |
-| **API & Bot Sistemleri** | `Telegram Bot API`, `Webhooks`, `RESTful APIs`, `HTTP/HTTPS Protocols` |
-| **Ağ & Sistem Güvenliği** | `Request Tracking`, `Token Verification`, `Remote Control Protocols` |
-| **Sistem & Mobil Ortam** | `Linux / Shell`, `Android Scripting`, `Termux`, `AIDE` |
+| **Programlama Dilleri** | `JavaScript (ES6+)`, `Python 3.x`, `Bash / Shell Scripting`, `Node.js` |
+| **Backend & Web Mimarisi** | `Express.js`, `Flask`, `RESTful API Design`, `Asynchronous I/O` |
+| **Siber Güvenlik & Farkındalık** | `Social Engineering Vector Analysis`, `Network Traffic Tracking`, `C2 Architectures` |
+| **Bulut & Serverless** | `Cloudflare Workers (Edge Computing)`, `Webhooks`, `Telegram Bot API` |
+| **Sistem & Mobil Geliştirme** | `Linux System Administration`, `Android ADB / Shizuku API`, `Termux Environment` |
 
 <br />
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,python,bash,cloudflare,git,github,html,css&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,python,bash,cloudflare,git,github,express,linux,html,css&theme=dark&perline=6" />
 </a>
 
 </div>
 
 ---
 
-## 🚀 Öne Çıkan Projeler & Sistem Mimarileri
+## 🚀 Proje Portföyü ve Sistem İncelemeleri
 
-### 1. 📧 Own-Mail — Özel E-Posta Yönetim & Yönlendirme Servisi
-* **Teknoloji Yığını:** `JavaScript` | `Node.js` | `Cloudflare Workers / Webhooks`
-* **Mimarisi & Detaylar:**
-  * Özel e-posta altyapısı ve yönlendirme mantıkları sunan hafif (lightweight) sunucusuz mimarı.
-  * Gelen mail yüklerini (payloads) anlık olarak işleyip ayıklayarak istenen hedef uç noktalara veya bildirim kanallarına güvenle iletir.
-
----
-
-### 2. 🔗 SpyLink — Bağlantı Analiz & İstek Takip Sistemi
-* **Teknoloji Yığını:** `Node.js` | `Express.js` | `Network Tracking Protocols`
-* **Mimarisi & Detaylar:**
-  * Link üzerinden gelen HTTP isteklerini, başlık bilgilerini (headers) ve istemci parametrelerini anlık olarak yakalayan veri toplama aracı.
-  * İstek analizi ve yönlendirme süreçlerini optimize ederek kullanıcıya detaylı trafik ve istemci verisi sunar.
+### 1. 🔍 SpyLink — *Siber Güvenlik Farkındalık ve Oltalama (Phishing) Simülasyon Framework'ü*
+* **Teknoloji Yığını:** `Node.js` | `Express.js` | `JavaScript` | `Web APIs (MediaDevices & Geolocation)`
+* **Sistem Mimarisi ve İşlev:**
+  * Kullanıcı izin mekanizmalarını ve sosyal mühendislik vektörlerini analiz etmek amacıyla geliştirilmiş eğitim/farkındalık simülasyonu.
+  * İstemci tarafında çalışan modüller sayesinde cihaz kamerasına erişim testleri, hassas coğrafi konum (Geolocation) tespiti ve detaylı IP/cihaz bilgisi toplama işlevlerini simüle eder.
+  * **Eğitimsel Amaç:** Oltalama (phishing) saldırılarına karşı farkındalık kazandırmak, kullanıcıların web tarayıcı izinlerini (kamera, konum) kontrolsüz verme risklerini somutlaştırmak ve güvenlik analistlerine test ortamı sağlamak için tasarlanmıştır.
 
 ---
 
-### 3. 🤖 Telegram-Token-Checker-Bot — Bot Token Doğrulama & Analiz Aracı
-* **Teknoloji Yığını:** `Python` / `Node.js` | `Telegram API` | `Asynchronous Requests`
-* **Mimarisi & Detaylar:**
-  * Toplu veya tekil Telegram bot token'larının geçerliliğini, yetki durumlarını ve bot bilgilerini saniyeler içinde doğrulayan kontrol sistemi.
-  * Telegram API uç noktalarına eşzamansız (asynchronous) sorgular göndererek hızlı ve kesintisiz doğrulama çıktısı üretir.
+### 2. 🎮 Rat-via-Telegram — *C2 (Command & Control) Mimari Araştırması ve Uzaktan Yönetim Betiği*
+* **Teknoloji Yığını:** `Python 3` | `Telegram Bot API` | `OS & Subprocess Modules` | `System Shell`
+* **Sistem Mimarisi ve İşlev:**
+  * Telegram Bot API'sini arka planda bir Komut ve Kontrol (C2) kanalı olarak kullanan istemci-sunucu (Client-Server) mimarisi.
+  * Hedef sistemde çalışan betik, Telegram sohbet arayüzü üzerinden gönderilen komutları ayrıştırarak işletim sistemi seviyesinde yürütür.
+  * Dosya sistemi yönetimi, süreç kontrolü ve uzaktan sistem çıktısı alma gibi işlemleri şifreli HTTP/HTTPS kanalları üzerinden güvenli bir şekilde gerçekleştirir.
 
 ---
 
-### 4. 🎮 Rat-via-Telegram — Telegram API Tabanlı Uzaktan Yönetim Betiği
-* **Teknoloji Yığını:** `Python` | `Telegram Bot API` | `System Shell Integration`
-* **Mimarisi & Detaylar:**
-  * Telegram Bot altyapısını bir Komut ve Kontrol (C2) arayüzü olarak kullanarak cihaz/sistem komutlarını uzaktan tetikleyen otomasyon aracı.
-  * Özel bot komutları üzerinden dosya sistemine erişim, komut çalıştırma ve sistem durumu alma gibi işlevleri Telegram sohbet ekranına entegre eder.
+### 3. 📧 Own-Mail — *Sunucusuz (Serverless Edge) E-Posta İşleme ve Yönlendirme Servisi*
+* **Teknoloji Yığını:** `JavaScript` | `Cloudflare Workers` | `MIME Parsing` | `Webhook API`
+* **Sistem Mimarisi ve İşlev:**
+  * Herhangi bir fiziksel sunucuya ihtiyaç duymadan, Cloudflare edge düğümlerinde çalışan yüksek performanslı e-posta yönlendirici.
+  * Gelen ham (raw) MIME formatındaki e-posta paketlerini milisaniyeler içinde parse eder; içerik, başlık ve güvenlik kodlarını ayıklayarak entegre Webhook uç noktalarına iletir.
 
 ---
 
-## 📊 GitHub İstatistikleri & Aktivite Metrikleri
+### 4. 🤖 Telegram-Token-Checker-Bot — *Eşzamansız API Doğrulama ve Durum Analiz Motoru*
+* **Teknoloji Yığını:** `Python` / `Node.js` | `Telegram Bot API` | `HTTP/HTTPS Request Handling`
+* **Sistem Mimarisi & İşlev:**
+  * Toplu veya tekil Telegram Bot Token'larının geçerliliğini ve yetki seviyelerini kontrol eden güvenlik ve bakım aracı.
+  * Telegram sunucularına eşzamansız sorgular atarak token durumlarını, bot kullanıcı adlarını ve yetkilendirme sınırlamalarını hızlı bir şekilde raporlar.
+
+---
+
+## ⚖️ Siber Güvenlik ve Etik Sorumluluk Bildirimi
+
+> **Yasal / Etik Uyarı:** Bu profilde yer alan siber güvenlik araçları (`SpyLink`, `Rat-via-Telegram` vb.), yalnızca **akademik araştırmalar**, **güvenlik farkındalık eğitimleri** ve **yetkili sızma testi (penetration testing) simülasyonları** amacıyla geliştirilmiştir. Araçların izinsiz sistemler üzerinde kullanılması veya kötüye kullanımı tamamen uygulayıcının sorumluluğundadır.
+
+---
+
+## 📊 İstatistikler ve Geliştirici Metrikleri
 
 <div align="center">
 
@@ -112,20 +121,20 @@ Ağ protokolleri, Telegram Bot API mimarileri, sistem seviyesinde uzaktan yönet
 
 ---
 
-## 🌐 İletişim & Bağlantılar
+## 🌐 İletişim ve Resmi Bağlantılar
 
 <div align="center">
 
-| Platform | Bağlantı |
+| Bağlantı Türü | Adres / Profil |
 | :--- | :--- |
-| **Kişisel Web Sitesi** | [jkyoseva.dpdns.org](https://jkyoseva.dpdns.org) |
-| **GitHub** | [@JavaKyoseva](https://github.com/JavaKyoseva) |
-| **Instagram** | [@yu._.water._.f](https://instagram.com/yu._.water._.f) |
+| **Resmi Web Sitesi** | [jkyoseva.dpdns.org](https://jkyoseva.dpdns.org) |
+| **GitHub Portföyü** | [@JavaKyoseva](https://github.com/JavaKyoseva) |
+| **Sosyal Medya / İletişim** | [@yu._.water._.f](https://instagram.com/yu._.water._.f) |
 
 </div>
 
 ---
 
 <div align="center">
-  <sub>© 2026 JavaKyoseva. Performans, Güvenlik ve Sistem Otomasyonu.</sub>
+  <sub>© 2026 Yusuf Köse (JavaKyoseva) — Güvenlik Araştırmaları & Yazılım Mühendisliği.</sub>
 </div>
