@@ -1,27 +1,104 @@
-# 💫 About Me:
-Hi! I'm **Java Kyoseva** — a student who always seeks solutions 💡 and never accepts negativity 🚫.  <br><br>I enjoy:<br>- **Simplicity & efficiency** ⚡  <br>- **Thinking outside the box** 📦  <br>- **Exploring new ideas** 💭  <br>- **Learning constantly** 📚  <br><br>Curious 🧐, adaptable 🌱, and a little playful 😏, I approach challenges 💪 with creativity 🎨, energy ⚡, and determination 🔥.  <br><br>I believe every problem has a solution 🔑 — you just need to find it 🗺️.
+<div align="center">
 
+  <!-- Animasyonlu Tipografi Başlık -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Yusuf+K%C3%B6se+%7C+JavaKyoseva;Full-Stack+%26+Backend+Developer;Automation+%26+System+Scripting" alt="Typing SVG" />
+  </a>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/javakyoseva) 
+  <p align="center">
+    <b>Backend Geliştirme, Sunucusuz (Serverless) Mimariler ve Sistem Otomasyonları Üzerine Odaklı Yazılım Geliştirici</b>
+  </p>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=flat&logo=glitch&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=flat&logo=riotgames&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JavaKyoseva&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=JavaKyoseva&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JavaKyoseva&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <!-- Sosyal Medya & Bağlantı Rozetleri -->
+  <a href="https://jkyoseva.dpdns.org">
+    <img src="https://img.shields.io/badge/Portfolio-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=black" />
+  </a>
+  <a href="https://github.com/JavaKyoseva">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/yu._.water._.f">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JavaKyoseva&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=JavaKyoseva&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br />
 
 ---
-[![](https://visitcount.itsvg.in/api?id=JavaKyoseva&icon=6&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 📋 Hakkımda & Çalışma Alanları
+
+Ölçeklenebilir web uygulamaları, modüler backend mimarileri ve performans odaklı otomasyon sistemleri geliştirmekteyim. Kod yapısında temiz mimarı (clean code), veri güvenliği ve yüksek optimize edilmiş sunucu taraflı çözümler önceliğimdir.
+
+* 🌐 **Backend & Web Mimarileri:** RESTful API tasarımları, Express.js ve Flask altyapılı servisler.
+* ⚡ **Sunucusuz (Serverless) Teknolojiler:** Cloudflare Workers tabanlı yüksek performanslı uç (edge) hesaplama çözümleri.
+* 📱 **Mobil & Sistem Otomasyonu:** Android ortamında Termux, Shizuku ve kabuk betikleri (Bash) ile düşük seviyeli otomasyon sistemleri.
+* 📐 **Arayüz & Tasarım Bütünlüğü:** Kullanıcı deneyimini ön plana çıkaran minimalist ve modern görsel tasarım sistemleri.
+
+---
+
+### 💻 Teknoloji Yığını & Araçlar
+
+<div align="center">
+
+| Kategori | Teknolojiler |
+| :--- | :--- |
+| **Diller** | `JavaScript (ES6+)` `TypeScript` `Python` `Bash` `HTML5/CSS3` |
+| **Backend & Frameworks** | `Node.js` `Express.js` `Flask` |
+| **Altyapı & Serverless** | `Cloudflare Workers` `Git` `GitHub Actions` |
+| **Mobil & Otomasyon** | `Android Shell Scripting` `Termux` `Shizuku` `AIDE` |
+
+<br />
+
+<!-- İkon Tabanlı Görsel Teknoloji Rozetleri -->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,python,flask,cloudflare,bash,git,github,html,css&theme=dark&perline=6" />
+</a>
+
+</div>
+
+---
+
+### 🚀 Öne Çıkan Projeler & Mimariler
+
+#### 🧮 1. MathLingo — *Interaktif Eğitim Uygulaması*
+- **Teknolojiler:** Node.js, Express.js, JavaScript, Modüler Veritabanı Mimarisi
+- **Detay:** Kullanıcı otantikasyonu, güvenli oturum yönetimi ve dinamik içerik sunumu içeren, ölçeklenebilir bir backend altyapısına sahip web platformu.
+
+#### 🌌 2. Ethereal App — *Mimarisi Tasarlanan Yazılım Ekosistemi*
+- **Teknolojiler:** Custom UI/UX Design, Modern Application Architecture
+- **Detay:** Görsel kimliği, ikonografisi ve modüler backend bileşenleri titizlikle kurgulanan konsept uygulama mimarisi.
+
+#### 📬 3. Serverless Email Router — *Geçici E-Posta & Telegram Entegrasyonu*
+- **Teknolojiler:** Cloudflare Workers, Telegram Bot API, JavaScript (Fetch/Payloads)
+- **Detay:** Gelen e-posta verilerini milisaniyeler içinde parse ederek doğrulama kodlarını doğrudan Telegram webhook'larına ileten hafif (lightweight) sunucusuz betik.
+
+---
+
+### 📈 GitHub İstatistikleri & Aktivite
+
+<div align="center">
+
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JavaKyoseva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00F2FE&icon_color=00F2FE" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavaKyoseva&layout=compact&theme=tokyonight&hide_border=true&title_color=00F2FE" />
+      </td>
+    </tr>
+  </table>
+
+  <br />
+
+  <!-- Aktivite Grafiği (Streak Stats) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JavaKyoseva&theme=tokyonight&hide_border=true&stroke=00F2FE&ring=00F2FE&fire=00F2FE" alt="GitHub Streak" />
+
+</div>
+
+---
+
+<div align="center">
+  <small>© 2026 JavaKyoseva — Minimalist, Performans Odaklı ve Temiz Kod.</small>
+</div>
